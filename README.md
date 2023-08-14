@@ -14,3 +14,15 @@ This project uses machine learning to predict the price of houses in a given loc
 
 8. <b>🍀 Stacking Model:</b>- To develop a stacked model using the top-performing models.<br>
 9. <b>🎈 Conclusion:</b> - Conclude the project by summarizing the <b>key findings.</b><br>
+# TECHNOLOGIES USED
+<ul>
+  <li>💻 Python</li>
+  <li>💻 HTML</li>
+  <li>🐼 Pandas</li>
+  <li>📊 Matplotlib</li>
+  <li>📈 Seaborn</li>
+  <li>📈 Statistics</li>
+  <li>🤖 Scikit-learn</li>
+  <li>🧠 Machine Learning</li>
+  <li>📓 Jupyter Notebook</li>
+  <li>🔗 GitHub</li>
