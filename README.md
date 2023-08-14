@@ -30,7 +30,7 @@ This project uses machine learning to predict the price of houses in a given loc
 <li>The project has reached completion, successfully meeting the predefined goals and purposes.</li>
  <li>All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation</li>.
 
- # 😊 Thank You 😊 
+ #  Thank You 
 
 <p>Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative. If you have any questions or suggestions, please feel free to reach out.😊</p>
 
