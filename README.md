@@ -25,7 +25,7 @@ This project uses machine learning to predict the price of houses in a given loc
   <li>📓 Jupyter Notebook</li>
   <li>🔗 GitHub</li
                 
- # PROJECT STATUS
+ # <h1> PROJECT STATUS </h2>
 
 <li>The project has reached completion, successfully meeting the predefined goals and purposes.</li>
  <li>All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation</li>.
