@@ -23,8 +23,9 @@ This project uses machine learning to predict the price of houses in a given loc
   <li>🤖 Scikit-learn</li>
   <li>🧠 Machine Learning</li>
   <li>📓 Jupyter Notebook</li>
-  <li>🔗 GitHub</li>
-  <h2>🏁 Project Status 🏁 </h2>
+  <li>🔗 GitHub</li
+                
+ # PROJECT STATUS
 
-* The project has reached completion, successfully meeting the predefined goals and purposes.
-* All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation.
+<li>The project has reached completion, successfully meeting the predefined goals and purposes.</li>
+ <li>All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation</li>.
